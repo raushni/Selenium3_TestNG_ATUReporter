@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1511178634879" stop="1511178634943" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
-    <name>Suite : Test1</name>
-    <title>Suite : Test1</title>
-    <labels>
-        <label name="framework" value="TestNG"/>
-        <label name="language" value="JAVA"/>
-    </labels>
-</ns2:test-suite>
